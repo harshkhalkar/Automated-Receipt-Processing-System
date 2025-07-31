@@ -54,7 +54,7 @@ Configure the following Lambda environment variables:
 | `SES_RECIPIENT_EMAIL`| Destination email for receipt summaries     |
 
 
-## Directory Structure
+## Repository Structure
 
 ```bash
 .
