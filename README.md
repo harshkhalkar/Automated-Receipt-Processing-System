@@ -29,7 +29,6 @@ This project uses **AWS Textract**, **DynamoDB**, **SES**, and **S3** to automat
 - **Amazon S3**
 - **Amazon DynamoDB**
 - **Amazon SES**
-- **Python 3.9**
 
 
 ## Setup Instructions
@@ -55,7 +54,7 @@ Configure the following Lambda environment variables:
 | `SES_RECIPIENT_EMAIL`| Destination email for receipt summaries     |
 
 
-## Project Structure
+## Directory Structure
 
 ```bash
 .
