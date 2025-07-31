@@ -57,7 +57,7 @@ Configure the following Lambda environment variables:
 ## Repository Structure
 
 ```bash
-.
+Automated-Receipt-Processing-System
 ├── lambda.py
 ├── Lambda Function Explanation.pdf
 ├── README.md
